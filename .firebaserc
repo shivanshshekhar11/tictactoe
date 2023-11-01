@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoeang-ang": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoeang-ang"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoeang-ang"
+  }
+}

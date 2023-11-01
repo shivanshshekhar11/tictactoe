@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: monospace;
+    font-size: larger;
+    color:white;
+    background-image:url("./assets/back.png");
+    background-size: cover;
+}

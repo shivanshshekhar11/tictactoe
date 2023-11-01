@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+    button{
+        border: 1px gray solid;
+        height: 20vw;
+        width: 20vw;
+        font: 5em sans-serif;
+    }
+  }
+
+  @media screen and (min-width: 480px) {
+    button{
+        border: 1px gray solid;
+        height: 10vw;
+        width: 10vw;
+        font: 5em sans-serif;
+    }
+  }

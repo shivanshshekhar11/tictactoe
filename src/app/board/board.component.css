@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px) {
+    main{
+        display:grid;
+        grid-template-columns: 20vw 20vw 20vw;
+        grid-gap: 0;
+        width:60vw;
+        margin: auto;
+    }
+  }
+  
+  @media screen and (min-width: 480px) {
+    main{
+        display:grid;
+        grid-template-columns: 10vw 10vw 10vw;
+        grid-gap: 0;
+        width:30vw;
+        margin: auto;
+    }
+  }
+
+
+h1,h2{
+    text-align: center;
+    margin-top: 1em;
+}
+
+button{
+    width: fit-content;
+    margin: 2em auto;
+    display: block;
+}
